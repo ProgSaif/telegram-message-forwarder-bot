@@ -7,8 +7,7 @@
 api_id = 26371992                                                      # required
 api_hash = "c58448dd41aba5eb58a1e72df5c9f9d4"                       # required
 bot_token = "6999317731:AAHd1hi7ICs7tMRaH9vFxuE43i7UTxuQsSw"                  # either bot_token or session_string is required
-session_string = "BQGSZ5gAQfQvFirohYEYLsaHzH8B40cuxgxamL-4R3dKUZdohOufJJz8623q3z-hCdYV3DNslXPr06TSooHFcC_w_5WR7g3ehpoxUOIcrNK8dCqJO1iWYz--ifftOL0vQd3Dzk-o7ZzR3ziRk5_DBv2GfxSaXNjoJWnBa0XSS9FEJwH42PwoBiB_Fe22yzU_AqhkyuXyx4lzMRMXvCAQF5KlntacJuAKKomAhbAgGrOwl4gCE8lxla7cAQ05vwi8QWYNwn5KF_mbFEiy8dvLh_g57iWAHsOOaIvwXC1UDGld7rHU_gKSMWbYWY_YFnmV5yoMcuWq0sNcZ-Rz1UHWXUNgOVdpNAAAAAGhMRzjAQ
-" # either bot_token or session_string is required
+session_string = "BQGSZ5gAQfQvFirohYEYLsaHzH8B40cuxgxamL-4R3dKUZdohOufJJz8623q3z-hCdYV3DNslXPr06TSooHFcC_w_5WR7g3ehpoxUOIcrNK8dCqJO1iWYz--ifftOL0vQd3Dzk-o7ZzR3ziRk5_DBv2GfxSaXNjoJWnBa0XSS9FEJwH42PwoBiB_Fe22yzU_AqhkyuXyx4lzMRMXvCAQF5KlntacJuAKKomAhbAgGrOwl4gCE8lxla7cAQ05vwi8QWYNwn5KF_mbFEiy8dvLh_g57iWAHsOOaIvwXC1UDGld7rHU_gKSMWbYWY_YFnmV5yoMcuWq0sNcZ-Rz1UHWXUNgOVdpNAAAAAGhMRzjAQ" # either bot_token or session_string is required
 sudo_users = [5000496113, 6305268551]                                 # optional
 
 
