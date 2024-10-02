@@ -18,12 +18,8 @@ sudo_users = [5000496113, 6305268551]                                 # optional
 # Atleast one chat must be added
 
 [[chats]]
-from = -1001610472708        # required
-to = -1002171874012              # required
+from = -1002468609474        # required
+to = -1002412302153              # required
 replace = { "❗ 🐋 " = "", "🐋   📣Some codes may be incorrect❗️"="" } # optional
 
-[[chats]]
-from = [-1002468609474, -1002215028830]               # required
-to = -1002385575985                                  # required
-replace = { "🎁 " = "" } # optional
 
